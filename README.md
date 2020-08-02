@@ -7,4 +7,6 @@ Features of this project:
 -Detele a Note
 -Search for a Note
 
+
+
 These things are stored using local Storage
