@@ -1,5 +1,7 @@
 # NoteWeb
 Note Taking Website Using Pure Javascript..
+
+
 Features of this project:
 -Add a Note
 -Detele a Note
