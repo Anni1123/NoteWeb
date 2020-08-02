@@ -9,4 +9,4 @@ Features of this project:
 
 
 
-These things are stored using local Storage
+Notes are stored using local Storage
