@@ -5,13 +5,13 @@ Note Taking Website Using Pure Javascript..
 Features of this project:
 
 
-i)Add a Note
+i) Add a Note
 
 
-ii)Detele a Note
+ii) Detele a Note
 
 
-iii)Search for a Note
+iii) Search for a Note
 
 
 
